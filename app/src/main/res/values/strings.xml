@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RcarrilloEx3a</string>
+    <string name="action_settings">Settings</string>
+    <string name="whileButtonCapation">While</string>
+    <string name="doWhileButton">Do While</string>
+    <string name="ForButtonCapation">For</string>
+</resources>
